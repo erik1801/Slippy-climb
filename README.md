@@ -1,7 +1,7 @@
 # Slippy-climb
 Fall. Rise. Conquer the Impossible. 'Slippy Climb'
 
-_____________________________________________________________
+
 # All about
 The game "Slippy climb" was created  in a gam jam and
 was only developed by "just_codingGames". Have fun and good luck playing!
